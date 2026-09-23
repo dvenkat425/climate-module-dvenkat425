@@ -5,8 +5,8 @@
 
 ## Team Members
 
-🦸
-🦹
+🦸 Deepa Venkat
+🦹 Madison Brianas
 
 ## 🎓 Learning Objectives
 
