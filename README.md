@@ -1,6 +1,7 @@
 # Climate Module
 
-<!-- EDIT with your badge link -->
+[![Reproducibility Check](https://github.com/dvenkat425/climate-module-dvenkat425/actions/workflows/main.yml/badge.svg)](https://github.com/dvenkat425/climate-module-dvenkat425/actions/workflows/main.yml)
+
 [![Reproducibility Check](https://github.com/espm-157/climate-python-template/actions/workflows/main.yml/badge.svg)](https://github.com/espm-157/climate-python-template/actions/workflows/main.yml)
 
 ## Team Members
